@@ -2,7 +2,7 @@
   <br>
   <a href="http://github.com/"><img src="https://i.imgur.com/81bz9Ws.png" alt="Cookunity Engineering Team" width="250"></a>
   <br>
-Cookunity Extension Pack <br>
+Boosting VS Code Efficiency<br>
 </h1>
 <div align="center">
   :computer:

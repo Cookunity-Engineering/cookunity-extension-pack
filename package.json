@@ -5,6 +5,9 @@
   "version": "0.0.1",
   "icon": "images/icon128x128.png",
   "publisher": "CookunityEngineeringTeam",
+  "repository": {
+    "url": "https://github.com/Cookunity-Engineering/cookunity-extension-pack"
+  },
   "engines": {
     "vscode": "^1.91.0"
   },

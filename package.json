@@ -3,6 +3,8 @@
   "displayName": "Boosting VS Code Efficiency",
   "description": "Recommended extension",
   "version": "0.0.1",
+  "icon": "images/icon128x128.png",
+  "publisher": "CookunityEngineeringTeam",
   "engines": {
     "vscode": "^1.91.0"
   },

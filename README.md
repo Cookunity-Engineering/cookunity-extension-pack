@@ -1,7 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://github.com/"><img src="https://i.imgur.com/81bz9Ws.png
-" alt="Cookunity Engineering Team" width="250"></a>
+  <a href="http://github.com/"><img src="https://i.imgur.com/81bz9Ws.png" alt="Cookunity Engineering Team" width="250"></a>
   <br>
 Cookunity Extension Pack <br>
 </h1>
